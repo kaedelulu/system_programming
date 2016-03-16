@@ -1,6 +1,6 @@
 [user]
-	name = Chuan-Ju Wang
-	email = jerewang@gmail.com
+	name = kaedelulu
+	email = luinghfrhrfuiy@gmail.com
 [color]
     status = auto
     diff = auto
@@ -10,7 +10,7 @@
 [merge]
     tool = vimdiff
 [core]
-	excludesfile = /Users/jerewang/.gitignore_global
+	excludesfile = /Users/u10316015/.gitignore_global
 [alias]
     bh = branch
     st = status
